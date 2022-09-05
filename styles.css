@@ -1,3 +1,30 @@
 .main {
   border: 2px solid black;
+
+  position: relative;
+  width: 1440px;
+  height: 2443px;
+  background: #ffffff;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-content: flex-start;
+  align-items: top;
+  flex-direction: row;
+}
+.logo {
+  position: absolute;
+  width: 158px;
+  height: 40px;
+  left: 0px;
+  top: 2px;
+
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 116%;
+  color: #a18a68;
+}
+.navbar {
 }

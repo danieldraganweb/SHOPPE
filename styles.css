@@ -1,24 +1,14 @@
 .main {
   border: 2px solid black;
+  width: 1440px;
+  height: 2443px;
+}
+.navbar {
+  border: 2px solid black;
+  margin-top: 20px;
   position: relative;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: baseline;
-  height: 2443px;
-  background: #ffffff;
-}
-.navbar {
-  width: 40px;
-  height: 40px;
-  left: 0px;
-  top: 2px;
-
-  font-family: "Allerta Stencil";
-  font-style: normal;
-  font-weight: 40px;
-  font-size: 10px;
-  color: #a18a68;
-}
-.navbar {
 }

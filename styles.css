@@ -21,7 +21,7 @@
 }
 .btn {
   position: absolute;
-  top: 70%;
+  top: 50%;
   left: 18%;
   right: 60%;
   background-color: inherit;
@@ -35,7 +35,7 @@
 .productpictures {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
   margin-top: 100px;
 }
 .shopcarticon {
@@ -48,14 +48,40 @@
   width: 20px;
 }
 .lira {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
+  width: 380px;
+  height: 380px;
 }
 .hal {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
 }
 .kaede {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
 }
 .hairpin {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
 }
 .plaine {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
 }
 .yuki {
+  display: block;
+  margin-left: 95px;
+  margin-right: 55px;
+  margin-bottom: 50px;
 }

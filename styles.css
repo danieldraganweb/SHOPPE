@@ -6,9 +6,18 @@
 .navbar {
   border: 2px solid black;
   margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
   position: relative;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: baseline;
+}
+.mainimg {
+  border: 2px solid black;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-inline-start: 200px;
 }

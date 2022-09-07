@@ -15,15 +15,20 @@
   align-items: baseline;
 }
 .mainimg {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
 }
 .btn {
   position: absolute;
-  top: 58%;
-  left: 38%;
-  background-color: #555;
+  top: 70%;
+  left: 18%;
+  right: 60%;
+  background-color: inherit;
   color: white;
   border: 2px solid white;
-  font-size: 10px;
+  font-size: 16px;
   padding: 12px 24px;
   cursor: pointer;
   border-radius: 5px;

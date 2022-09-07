@@ -15,9 +15,21 @@
   align-items: baseline;
 }
 .mainimg {
-  border: 2px solid black;
   margin-top: 50px;
   margin-left: 200px;
   margin-right: 200px;
   padding-inline-start: 200px;
 }
+.btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  border: 2px solid white;
+  font-size: 10px;
+  padding: 12px 24px;
+  cursor: pointer;
+  border-radius: 5px;

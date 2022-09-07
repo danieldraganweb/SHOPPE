@@ -1,29 +1,23 @@
 .main {
   border: 2px solid black;
-
   position: relative;
-  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: baseline;
   height: 2443px;
   background: #ffffff;
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: flex-end;
-  align-content: flex-start;
-  align-items: top;
-  flex-direction: row;
 }
-.logo {
-  position: absolute;
-  width: 158px;
+.navbar {
+  width: 40px;
   height: 40px;
   left: 0px;
   top: 2px;
 
   font-family: "Allerta Stencil";
   font-style: normal;
-  font-weight: 400;
-  font-size: 35px;
-  line-height: 116%;
+  font-weight: 40px;
+  font-size: 10px;
   color: #a18a68;
 }
 .navbar {

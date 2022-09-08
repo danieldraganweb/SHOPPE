@@ -1,7 +1,6 @@
 .main {
   border: 2px solid black;
-  width: 1440px;
-  height: 2443px;
+  position:absolute
 }
 .navbar {
   border: 2px solid white;
@@ -49,42 +48,56 @@
   width: 20px;
 }
 .lira {
-  display: block;
+  
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
   width: 380px;
   height: 380px:;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
 }
 .hal {
-  display: block;
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
+  float: center;
+  width: 33.33%;
+  padding: 5px;
 }
 .kaede {
-  display: block;
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
+  float: right;
+  width: 33.33%;
+  padding: 5px;
 }
 .hairpin {
-  display: block;
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
 .plaine {
-  display: block;
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
+  float: center;
+  width: 33.33%;
+  padding: 5px;
 }
 .yuki {
-  display: block;
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
+  float: right;
+  width: 33.33%;
+  padding: 5px;
 }
 
 .shopview{
@@ -94,6 +107,7 @@
   align-items: baseline;
   margin-right: 120px;
   margin-left: 100px;
+  margin-top: 60px;
 }
 .shoptl{    
   font-family: 'DM-Sans';
@@ -109,5 +123,4 @@
   font-weight: 500;
   font-size: 30px;
   line-height: 26px;
-
 }

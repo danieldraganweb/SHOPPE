@@ -2,6 +2,17 @@
   border: 2px solid black;
   position: absolute;
 }
+.logo {
+  position: absolute;
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 79px;
+  line-height: 40px;
+  margin-top: 40px;
+  margin-left: 95px;
+  color: goldenrod;
+}
 .navbar {
   border: 2px solid white;
   margin-top: 20px;

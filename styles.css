@@ -5,8 +5,8 @@
 .navbar {
   border: 2px solid white;
   margin-top: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 776px;
+  margin-right: 77px;
   position: relative;
   display: flex;
   flex-direction: row;
@@ -30,7 +30,7 @@
 .btn {
   position: absolute;
   display: block;
-  margin-top: 400px;
+  margin-top: 393px;
   margin-left: 60px;
   margin-right: 950px;
   background-color: inherit;

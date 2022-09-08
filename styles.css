@@ -12,6 +12,11 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 27px;
 }
 .mainimg {
   display: flex;
@@ -20,6 +25,7 @@
   margin-left: 96px;
   margin-right: 96px;
   align-items: stretch;
+  margin-top: 60px;
 }
 .btn {
   position: absolute;
@@ -56,13 +62,13 @@
   margin-left: 60px;
 }
 .shopcarticon {
-  width: 40px;
+  width: 60px;
 }
 .searchicon {
-  width: 20px;
+  width: 30px;
 }
 .personalicon {
-  width: 20px;
+  width: 28px;
 }
 .lira {
   margin-left: 95px;

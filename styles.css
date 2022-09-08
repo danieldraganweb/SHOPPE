@@ -24,14 +24,14 @@
 .btn {
   position: absolute;
   display: block;
-  margin-top: 400px;
-  margin-left: 10px;
+  margin-top: 500px;
+  margin-left: 60px;
   margin-right: 950px;
   background-color: inherit;
   color: white;
   border: 2px solid white;
   font-size: 25px;
-  padding: 15px px;
+  padding: 15px 80px;
   cursor: pointer;
   border-radius: 5px;
 }

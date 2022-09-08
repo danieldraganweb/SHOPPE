@@ -1,6 +1,6 @@
 .main {
   border: 2px solid black;
-  position:absolute
+  position: absolute;
 }
 .navbar {
   border: 2px solid white;
@@ -15,16 +15,16 @@
 }
 .mainimg {
   display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    margin-left: 96px;
-    margin-right: 96px;
-    align-items: stretch;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin-left: 96px;
+  margin-right: 96px;
+  align-items: stretch;
 }
 .btn {
   position: absolute;
   display: block;
-  margin-top: 500px;
+  margin-top: 400px;
   margin-left: 60px;
   margin-right: 950px;
   background-color: inherit;
@@ -41,16 +41,19 @@
   justify-content: space-evenly;
   margin-top: 100px;
 }
-.prodname{
-  font-size: xx-large;    
+.prodname {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  color: whitesmoke;
+  line-height: 27px;
   display: flex;
   flex-direction: column;
   position: absolute;
   float: left;
   margin-top: 150px;
   margin-left: 60px;
-  
-
 }
 .shopcarticon {
   width: 40px;
@@ -62,16 +65,14 @@
   width: 20px;
 }
 .lira {
-  
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
   width: 380px;
-  height: 380px:;
+  height: 380px;
   float: left;
   width: 33.33%;
   padding: 5px;
-  
 }
 .hal {
   margin-left: 95px;
@@ -114,7 +115,7 @@
   padding: 5px;
 }
 
-.shopview{
+.shopview {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -123,16 +124,15 @@
   margin-left: 100px;
   margin-top: 60px;
 }
-.shoptl{    
-  font-family: 'DM-Sans';
+.shoptl {
+  font-family: "DM-Sans";
   font-style: normal;
   font-weight: 500;
   font-size: 30px;
   line-height: 26px;
-
 }
-.viewall{
-  font-family: 'DM-Sans';
+.viewall {
+  font-family: "DM-Sans";
   font-style: normal;
   font-weight: 500;
   font-size: 30px;

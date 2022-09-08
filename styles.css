@@ -20,6 +20,7 @@
   margin-top: 100px;
 }
 .btn {
+  position: absolute;
   display: block;
   margin-top: 400px;
   margin-left: 10px;
@@ -86,3 +87,27 @@
   margin-bottom: 50px;
 }
 
+.shopview{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-right: 120px;
+  margin-left: 100px;
+}
+.shoptl{    
+  font-family: 'DM-Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 26px;
+
+}
+.viewall{
+  font-family: 'DM-Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 26px;
+
+}

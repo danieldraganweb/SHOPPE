@@ -8,14 +8,17 @@
   font-style: normal;
   font-weight: 400px;
   font-size: 79px;
-  line-height: 40px;
   margin-top: 40px;
-  margin-left: 95px;
   color: goldenrod;
+}
+.logoimg {
+  width: 70px;
+  margin-left: 95px;
+  margin-top: 0px;
 }
 .navbar {
   border: 2px solid white;
-  margin-top: 20px;
+  margin-top: 39px;
   margin-left: 776px;
   margin-right: 77px;
   position: relative;

@@ -15,8 +15,11 @@
 }
 .mainimg {
   display: flex;
-  justify-content: center;
-  margin-top: 100px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-left: 96px;
+    margin-right: 96px;
+    align-items: stretch;
 }
 .btn {
   position: absolute;
@@ -28,7 +31,7 @@
   color: white;
   border: 2px solid white;
   font-size: 25px;
-  padding: 12px 24px;
+  padding: 15px px;
   cursor: pointer;
   border-radius: 5px;
 }
@@ -37,6 +40,9 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin-top: 100px;
+}
+.prodname{
+
 }
 .shopcarticon {
   width: 40px;

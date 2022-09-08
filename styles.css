@@ -20,10 +20,10 @@
   margin-top: 100px;
 }
 .btn {
-  position: absolute;
-  top: 38%;
-  left: 12%;
-  right: 60%;
+  display: block;
+  margin-top: 400px;
+  margin-left: 10px;
+  margin-right: 950px;
   background-color: inherit;
   color: white;
   border: 2px solid white;

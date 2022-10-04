@@ -12,7 +12,8 @@
   color: goldenrod;
 }
 .logoimg {
-  width: 70px;
+  display: block;
+  width: 23px;
   margin-left: 95px;
   margin-top: 0px;
 }
@@ -88,8 +89,6 @@
   margin-left: 95px;
   margin-right: 55px;
   margin-bottom: 50px;
-  width: 380px;
-  height: 380px;
   float: left;
   width: 33.33%;
   padding: 5px;

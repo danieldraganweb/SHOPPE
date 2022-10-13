@@ -2,8 +2,7 @@
   border: 2px solid black;
   position: absolute;
   height: auto;
-  width: 100%;
-  min-width: 1000px;
+  width: fit-content;
   margin-top: 0px;
   margin-left: 0px;
   margin-bottom: 0px;

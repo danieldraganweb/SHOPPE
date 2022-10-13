@@ -8,11 +8,11 @@
 }
 .logo {
   position: absolute;
+  margin-left: 100px;
   font-family: "Allerta Stencil";
   font-style: normal;
   font-weight: 400px;
-  font-size: 79px;
-
+  font-size: 150px;
   color: goldenrod;
 }
 .logoimg {

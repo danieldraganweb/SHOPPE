@@ -1,6 +1,7 @@
 .main {
   border: 2px solid black;
   position: absolute;
+  height: fit-content;
 }
 .logo {
   position: absolute;

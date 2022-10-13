@@ -3,6 +3,8 @@
   position: absolute;
   height: fit-content;
   width: fit-content;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .logo {
   position: absolute;

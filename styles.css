@@ -2,6 +2,8 @@
   border: 2px solid black;
   position: absolute;
   height: fit-content;
+  margin-left: auto;
+  margin-top: auto;
 }
 .logo {
   position: absolute;

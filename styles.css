@@ -45,6 +45,7 @@
   margin-right: 96px;
   align-items: stretch;
   margin-top: 60px;
+  border-block-end-width: inherit;
 }
 .btn {
   position: absolute;
@@ -70,9 +71,9 @@
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 400;
-  font-size: 26px;
+  font-size: 27px;
   color: whitesmoke;
-  line-height: 27px;
+  line-height: 0px;
   display: flex;
   flex-direction: column;
   position: absolute;

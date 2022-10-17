@@ -184,6 +184,21 @@ footer {
   bottom: 0px;
   background: white;
   color: rgb(202, 200, 200);
-  padding: 50px;
+  padding: 0px;
   font-size: 30px;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: flex-start;
+  align-items: stretch;
+}
+.copyright {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
 }

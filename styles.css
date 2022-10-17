@@ -4,7 +4,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  justify content:center;
+  justify-content: center;
 }
 .logo {
   position: absolute;
@@ -63,26 +63,24 @@
 }
 .productpictures {
   display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin-top: 100px;
-    flex-direction: row;
-    align-content: center;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  flex-direction: row;
+  align-content: center;
 }
-.prodimg-container1{
+.prodimg-container1 {
   display: flex;
   flex-direction: row;
   align-items: baseline;
   justify-content: center;
   margin-left: 50px;
-  
 }
-.prodimg-container2{
+.prodimg-container2 {
   display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-content: center;
-  
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-content: center;
 }
 .prodname {
   font-family: "DM Sans";
@@ -180,4 +178,12 @@
   font-weight: 500;
   font-size: 30px;
   line-height: 26px;
+}
+footer {
+  width: 100%;
+  bottom: 0px;
+  background: white;
+  color: rgb(202, 200, 200);
+  padding: 50px;
+  font-size: 30px;
 }

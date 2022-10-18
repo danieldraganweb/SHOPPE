@@ -185,6 +185,7 @@ footer {
   color: rgb(202, 200, 200);
   padding: 0px;
   font-size: 20px;
+  margin-top: 130px;
 }
 .form {
   display: flex;
@@ -200,4 +201,20 @@ footer {
   font-size: 20px;
   color: black;
   text-decoration: none;
+}
+.email {
+  padding: 6px;
+  width: 300px;
+  height: 25px;
+  font-size: 23px;
+  border-bottom: 1px solid black;
+  border: white;
+  border-bottom: 1px solid black;
+}
+.submitbtn {
+  font-size: 23px;
+  margin-right: 98px;
+  border: 1px solid white;
+  border-radius: 15px;
+  background-color: goldenrod;
 }

@@ -195,6 +195,14 @@ footer {
   justify-content: flex-end;
   align-content: flex-start;
   align-items: stretch;
+  line-height: 65px;
+  border: 1px solid black;
+  margin-left: 1400px;
+  margin-right: 30px;
+  margin-bottom: 166px;
+  margin-top: -78px;
+  display: block;
+  text-size-adjust: 2px;
 }
 .copyright {
   display: flex;
@@ -222,4 +230,22 @@ footer {
 }
 .navbartxt {
   display: contents;
+}
+.footerlinks {
+  border: 1px solid white;
+  width: 1;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  margin-left: 10px;
+  margin-right: 1230px;
+  justify-content: space-between;
+  padding: 35px;
+  font-size: 40px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 41px;
+  line-height: 27px;
 }

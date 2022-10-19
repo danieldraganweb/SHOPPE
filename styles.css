@@ -40,14 +40,10 @@
   color: black;
 }
 .mainimg {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  margin-left: 96px;
-  margin-right: 96px;
-  align-items: stretch;
-  margin-top: 60px;
-  border-block-end-width: inherit;
+  background-image: image(mainimg.jpg);
+  display: block;
+  margin-left: 106px;
+  margin-top: 50px;
 }
 .btn {
   position: absolute;

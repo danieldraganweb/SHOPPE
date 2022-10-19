@@ -232,20 +232,19 @@ footer {
   display: contents;
 }
 .footerlinks {
-  border: 1px solid white;
+  border: 1px solid rgb(11, 11, 11);
   width: 1;
   border-width: 1px;
   display: flex;
   flex-direction: row;
   align-content: flex-end;
   margin-left: 10px;
-  margin-right: 1230px;
+  margin-right: 850px;
   justify-content: space-between;
   padding: 35px;
-  font-size: 40px;
+  font-size: 20px;
   font-family: "DM Sans";
   font-style: normal;
-  font-weight: 400;
-  font-size: 41px;
+  font-weight: 200;
   line-height: 27px;
 }

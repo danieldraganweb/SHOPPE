@@ -196,13 +196,11 @@ footer {
   align-content: flex-start;
   align-items: stretch;
   line-height: 65px;
-  border: 1px solid black;
-  margin-left: 1400px;
-  margin-right: 30px;
+  border: 1px solid white;
+  margin-left: 969px;
+  margin-right: 0px;
   margin-bottom: 166px;
   margin-top: -78px;
-  display: block;
-  text-size-adjust: 2px;
 }
 .copyright {
   display: flex;
@@ -226,13 +224,13 @@ footer {
   margin-right: 98px;
   border: 1px solid white;
   border-radius: 15px;
-  background-color: goldenrod;
+  background-color: rgb(251, 251, 251);
 }
 .navbartxt {
   display: contents;
 }
 .footerlinks {
-  border: 1px solid rgb(11, 11, 11);
+  border: 1px solid rgb(255, 255, 255);
   width: 1;
   border-width: 1px;
   display: flex;

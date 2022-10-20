@@ -40,10 +40,11 @@
   color: black;
 }
 .mainimg {
-  background-image: image(mainimg.jpg);
   display: block;
-  margin-left: 106px;
-  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
 }
 .btn {
   position: absolute;

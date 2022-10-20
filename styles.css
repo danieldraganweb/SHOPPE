@@ -288,3 +288,17 @@ footer {
   .features {
   }
 }
+
+/*404page*/
+
+.errorbox {
+  width: 100%;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;

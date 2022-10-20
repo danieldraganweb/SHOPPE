@@ -228,6 +228,7 @@ footer {
   border-bottom: 1px solid black;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
+  margin-right: 5px;
 }
 .submitbtn {
   font-size: 23px;
@@ -293,13 +294,19 @@ footer {
 
 .errorbox {
   width: 100%;
+  height: 300px;
   border: 2px solid black;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-content: stretch;
-  align-items: center;
   margin-top: 100px;
-  margin-left: 200px;
-  margin-right: 200px;
+  text-decoration: none;
+  color: black;
+  font-size: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.errorimg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }

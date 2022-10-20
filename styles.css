@@ -276,10 +276,12 @@ footer {
   font-weight: 200;
   line-height: 27px;
 }
+
 /*Responsive Features*/
 
 @media screen and (max-width=400px) {
   .features {
+    width: max-content;
   }
 }
 @media screen and (max-width=800px) {

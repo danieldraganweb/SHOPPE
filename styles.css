@@ -8,19 +8,16 @@
 }
 .logo {
   position: absolute;
-  margin-left: 100px;
   font-family: "Allerta Stencil";
   font-style: normal;
   font-weight: 400px;
-  font-size: 150px;
-  color: goldenrod;
+  font-size: 60px;
+  color: indigo;
+  margin-top: 25px;
+  margin-left: 46px;
+  border: 1px solid indigo;
 }
-.logoimg {
-  display: block;
-  width: 23px;
-  margin-left: 95px;
-  margin-top: 0px;
-}
+
 .navbar {
   border: 2px solid white;
   margin-top: 39px;
@@ -38,6 +35,11 @@
   line-height: 27px;
   text-decoration: none;
   color: black;
+}
+.backgroundimage {
+  display: flex;
+  border: 1px solid black;
+  padding: 15px;
 }
 .mainimg {
   display: block;

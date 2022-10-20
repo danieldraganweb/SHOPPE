@@ -231,16 +231,18 @@ footer {
   font-size: 23px;
   margin-right: 110px;
   border: 1px solid white;
-  border-radius: 15px;
-  width: 130px;
+  border-radius: 25px;
+  width: 62px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   padding: 1px;
-  background-image: url(https://image.shutterstock.com/image-vector/black-rightarrow-icon-vector-isolated-260nw-1533468803.jpg);
-  background-size: 100%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZomhcSWpm35M20I7OffQMqD1zg_VtjOPZw&usqp=CAU);
+  background-size: 70%;
   display: flex;
   position: relative;
   padding-bottom: 45px;
+  margin-top: -22px;
+  background-size: 62px;
 }
 .socialmediaicons {
   order: 2px solid #0b0a0a;

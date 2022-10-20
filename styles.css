@@ -187,13 +187,14 @@
   line-height: 26px;
 }
 footer {
+  border-top: 2px solid lightgray;
   width: 100%;
   bottom: 0px;
   background: white;
   color: rgb(202, 200, 200);
   padding: 0px;
   font-size: 20px;
-  margin-top: 130px;
+  margin-top: 200px;
 }
 .form {
   display: flex;

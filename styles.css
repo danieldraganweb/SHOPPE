@@ -5,10 +5,13 @@
   margin-right: auto;
   width: 100%;
   justify-content: center;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
+    Verdana, sans-serif;
 }
 .logo {
   position: absolute;
-  font-family: "Allerta Stencil";
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
+    Verdana, sans-serif;
   font-style: normal;
   font-weight: 400px;
   font-size: 60px;
@@ -28,7 +31,7 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  font-family: "DM Sans";
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -48,7 +51,7 @@
 .btn {
   position: absolute;
   display: block;
-  margin-top: -313px;
+  margin-top: -400px;
   margin-left: 60px;
   margin-right: 950px;
   background-color: inherit;
@@ -58,6 +61,7 @@
   padding: 15px 80px;
   cursor: pointer;
   border-radius: 5px;
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
 }
 .productpictures {
   display: flex;
@@ -82,7 +86,7 @@
   margin-right: 27px;
 }
 .prodname {
-  font-family: "DM Sans";
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
   font-style: normal;
   font-weight: 400;
   font-size: 27px;
@@ -164,14 +168,14 @@
   margin-top: 60px;
 }
 .shoptl {
-  font-family: "DM-Sans";
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
   font-style: normal;
   font-weight: 500;
   font-size: 30px;
   line-height: 26px;
 }
 .viewall {
-  font-family: "DM-Sans";
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
   font-style: normal;
   font-weight: 500;
   font-size: 30px;
@@ -215,6 +219,7 @@ footer {
   border-bottom: 1px solid black;
   border: white;
   border-bottom: 1px solid black;
+  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
 }
 .submitbtn {
   font-size: 23px;
@@ -238,7 +243,7 @@ footer {
   justify-content: space-between;
   padding: 35px;
   font-size: 20px;
-  font-family: "DM Sans";
+  font-family:  font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; ;
   font-style: normal;
   font-weight: 200;
   line-height: 27px;

@@ -265,10 +265,10 @@ footer {
   flex-direction: row;
   align-content: flex-end;
   margin-left: 10px;
-  margin-right: 550px;
+  margin-right: 850px;
   justify-content: space-between;
   padding: 35px;
-  font-size: 20px;
+  font-size: 10px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   font-style: normal;

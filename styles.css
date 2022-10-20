@@ -188,6 +188,7 @@
 }
 footer {
   border-top: 2px solid lightgray;
+  border-bottom-left-radius: 50px;
   width: 100%;
   bottom: 0px;
   background: white;

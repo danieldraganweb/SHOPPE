@@ -229,12 +229,27 @@ footer {
 }
 .submitbtn {
   font-size: 23px;
-  margin-right: 98px;
+  margin-right: 110px;
   border: 1px solid white;
   border-radius: 15px;
-  background-color: rgb(251, 251, 251);
+  width: 130px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
+    Verdana, sans-serif;
+  padding: 1px;
+  background-image: url(https://image.shutterstock.com/image-vector/black-rightarrow-icon-vector-isolated-260nw-1533468803.jpg);
+  background-size: 100%;
+  display: flex;
+  position: relative;
+  padding-bottom: 45px;
 }
 .socialmediaicons {
+  order: 2px solid #0b0a0a;
+  display: flex;
+  flex-direction: column;
+  width: 9%;
+  padding-top: 26px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .navbartxt {
   display: contents;

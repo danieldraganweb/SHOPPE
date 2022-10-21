@@ -39,6 +39,14 @@
   align-content: flex-end;
 }
 .nav-bar-icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  align-content: stretch;
+  border: 2px solid black;
+  margin-left: 88rem;
 }
 .backgroundimage {
   border: 2px solid red;

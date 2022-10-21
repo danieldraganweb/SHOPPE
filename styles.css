@@ -13,11 +13,10 @@
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   font-style: normal;
-  font-weight: 400px;
-  font-size: 73px;
-  color: indigo;
-  margin-top: 25px;
-  margin-left: 46px;
+  font-size: 6rem;
+  color: #731fb0;
+  margin-top: 4rem;
+  margin-left: 8rem;
   border: 1px solid white;
 }
 
@@ -55,14 +54,14 @@
 .btn {
   position: absolute;
   display: block;
-  margin-top: 7rem;
-  margin-left: 200px;
-  margin-right: 950px;
+  margin-top: 33rem;
+  margin-left: 11rem;
+  margin-right: 57rem;
   background-color: inherit;
   color: white;
   border: 2px solid white;
-  font-size: 25px;
-  padding: 15px 80px;
+  font-size: 1.3rem;
+  padding: 7px 77px;
   cursor: pointer;
   border-radius: 5px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
@@ -95,21 +94,33 @@
     Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 27px;
+  font-size: 1.2rem;
   color: whitesmoke;
   width: 91rem;
   height: 47rem;
-  border: 2px solid red;
+  border: 2px solid white;
   position: absolute;
   display: flex;
   flex-direction: column;
-  position: absolute;
   float: left;
   margin-top: 5rem;
-  margin-left: 60px;
+  margin-left: 7.7rem;
   background: url(img/mainimg.jpg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 7rem;
+}
+.header1 {
+  order: 1px solid;
+  margin-left: 4rem;
+  margin-right: 63rem;
+  margin-top: 15rem;
+}
+.header2 {
+  margin-left: 4rem;
+  margin-right: 63rem;
+  margin-top: 0rem;
 }
 .shopcarticon {
   width: 60px;

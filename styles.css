@@ -3,12 +3,10 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: fit-content;
   justify-content: center;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
-  margin-left: 10rem;
-  margin-right: 10rem;
 }
 .logo {
   position: absolute;
@@ -43,23 +41,22 @@
     Verdana, sans-serif;
 }
 .backgroundimage {
+  border: 2px solid red;
   display: flex;
   width: 100%;
-  width: 70;
+  min-height: max-content;
   flex-direction: column;
   align-content: center;
   justify-content: center;
   align-items: center;
-  margin-left: 3rem;
-  margin-right: 3rem;
   margin-top: 3rem;
 }
 
 .btn {
   position: absolute;
   display: block;
-  margin-top: -400px;
-  margin-left: 60px;
+  margin-top: 7rem;
+  margin-left: 200px;
   margin-right: 950px;
   background-color: inherit;
   color: white;
@@ -100,13 +97,19 @@
   font-weight: 400;
   font-size: 27px;
   color: whitesmoke;
-  line-height: 0px;
+  width: 91rem;
+  height: 47rem;
+  border: 2px solid red;
+  position: absolute;
   display: flex;
   flex-direction: column;
   position: absolute;
   float: left;
-  margin-top: 300px;
+  margin-top: 5rem;
   margin-left: 60px;
+  background: url(img/mainimg.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 .shopcarticon {
   width: 60px;
@@ -172,9 +175,9 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: baseline;
-  margin-right: 120px;
+  margin-right: 100px;
   margin-left: 100px;
-  margin-top: 60px;
+  margin-top: 55rem;
 }
 .shoptl {
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
@@ -191,6 +194,7 @@
   font-weight: 500;
   font-size: 30px;
   line-height: 26px;
+  margin-right: 2rem;
 }
 footer {
   border-top: 2px solid lightgray;

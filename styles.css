@@ -7,6 +7,8 @@
   justify-content: center;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
+  margin-left: 10rem;
+  margin-right: 10rem;
 }
 .logo {
   position: absolute;
@@ -42,11 +44,15 @@
 }
 .backgroundimage {
   display: flex;
+  width: 100%;
+  width: 70;
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  align-items: stretch;
-  padding: 38px;
+  align-items: center;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 3rem;
 }
 
 .btn {
@@ -287,7 +293,7 @@ a {
   text-decoration: none;
   font-size: 20px;
   font-weight: 800;
-  color: red;
+  color: rgb(0, 0, 0);
 }
 ul {
   text-decoration: none;

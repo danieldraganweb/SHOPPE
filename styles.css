@@ -15,28 +15,12 @@
   font-style: normal;
   font-size: 6rem;
   color: #731fb0;
-  margin-top: 4rem;
+  margin-top: 1rem;
   margin-left: 8rem;
   border: 1px solid white;
 }
 .navbar {
-  border: 2px solid white;
-  margin-top: 3rem;
-  margin-left: 33rem;
-  margin-right: 25px;
-  position: relative;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: flex-end;
-  font-style: normal;
-  font-weight: 100;
-  font-size: 0.8rem;
-  text-decoration: none;
-  color: black;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
-    Verdana, sans-serif;
-  flex-direction: row;
-  align-content: flex-end;
+  width: 100rem;
 }
 .nav-bar-icons {
   display: flex;
@@ -45,7 +29,7 @@
   justify-content: flex-end;
   align-items: center;
   align-content: stretch;
-  border: 2px solid black;
+  border: 2px solid rgb(141, 90, 90);
   margin-left: 88rem;
 }
 .backgroundimage {
@@ -62,19 +46,23 @@
 
 .btn {
   position: absolute;
-  display: block;
-  margin-top: 33rem;
-  margin-left: 11rem;
+  margin-top: 30rem;
+  margin-left: 11.7rem;
   margin-right: 57rem;
+  padding: 0rem;
   background-color: inherit;
   color: white;
-  border: 2px solid white;
+  border: 2px solid #ffffff;
   font-size: 1.3rem;
-  padding: 7px 77px;
+  padding: 1rem 5rem;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 8px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
+  background: none;
+}
+.button {
+  width: 7rem;
 }
 .productpictures {
   display: flex;
@@ -121,15 +109,15 @@
   margin-left: 7rem;
 }
 .header1 {
-  order: 1px solid;
   margin-left: 4rem;
-  margin-right: 63rem;
-  margin-top: 15rem;
+  margin-right: 3rem;
+  margin-top: 13rem;
+  margin-bottom: 1rem;
 }
 .header2 {
-  margin-left: 4rem;
+  margin-left: 1rem;
   margin-right: 63rem;
-  margin-top: 0rem;
+  margin-top: 1rem;
 }
 .shopcarticon {
   width: 60px;

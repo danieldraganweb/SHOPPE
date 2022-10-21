@@ -289,7 +289,10 @@ a {
   font-weight: 800;
   color: red;
 }
-
+ul {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
 /*Responsive Features*/
 
 @media (max-width: 750px) {

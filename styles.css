@@ -14,36 +14,36 @@
     Verdana, sans-serif;
   font-style: normal;
   font-size: 6rem;
-  color: #731fb0;
-  margin-top: 1rem;
+  color: goldenrod;
+  margin-top: -5rem;
   margin-left: 8rem;
   border: 1px solid white;
 }
 .navbar {
-  border: solid 0.2rem black;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   align-content: flex-start;
   margin-left: 53rem;
-  margin-right: 7rem;
+  margin-right: 8rem;
   margin-top: 2rem;
   padding-top: 0px;
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
   font-size: 1.2rem;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   font-style: normal;
-}
-.shopcarticon {
-  width: 4rem;
+  margin-top: 5rem;
 }
 .searchicon {
-  width: 2.4rem;
+  width: 1.6rem;
+}
+.shopcarticon {
+  width: 2.5rem;
 }
 .personalicon {
-  width: 2.8rem;
+  width: 1.8rem;
   margin-top: 5px;
 }
 .nav-bar-icons {
@@ -57,7 +57,7 @@
   margin-left: 88rem;
 }
 .backgroundimage {
-  border: 2px solid red;
+  border: 2px solid white;
   display: flex;
   width: 100%;
   min-height: max-content;
@@ -69,25 +69,24 @@
 }
 
 .btn {
-  position: absolute;
-  margin-top: 30rem;
-  margin-left: 11.7rem;
-  margin-right: 57rem;
-  padding: 0rem;
-  background-color: inherit;
-  color: white;
-  border: 2px solid #ffffff;
-  font-size: 1.3rem;
-  padding: 1rem 5rem;
-  cursor: pointer;
-  border-radius: 8px;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
-    Verdana, sans-serif;
-  background: none;
-  width: 7rem;
 }
 .button {
-  width: 7rem;
+  position: absolute;
+  width: 18rem;
+  background-color: inherit;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.3rem;
+  border-radius: 0.5rem;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
+    Verdana, sans-serif;
+  font-style: normal;
+  margin-left: 11.2rem;
+  margin-top: 26rem;
 }
 .productpictures {
   display: flex;
@@ -131,7 +130,7 @@
   display: flex;
   flex-direction: column;
   float: left;
-  margin-top: 5rem;
+  margin-top: 0rem;
   margin-left: 7.7rem;
   background: url(img/mainimg.jpg);
   background-size: contain;

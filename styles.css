@@ -20,7 +20,21 @@
   border: 1px solid white;
 }
 .navbar {
-  width: 100rem;
+  border: solid 0.2rem black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-content: flex-start;
+  margin-left: 53rem;
+  margin-right: 7rem;
+  margin-top: 2rem;
+  padding-top: 0px;
+  margin-bottom: 0rem;
+  font-size: 1.6rem;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
+    Verdana, sans-serif;
+  font-style: normal;
 }
 .nav-bar-icons {
   display: flex;

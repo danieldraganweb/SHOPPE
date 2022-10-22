@@ -60,6 +60,7 @@
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   background: none;
+  width: 7rem;
 }
 .button {
   width: 7rem;
@@ -110,15 +111,15 @@
 }
 .header1 {
   margin-left: 4rem;
-  margin-right: 3rem;
-  margin-top: 13rem;
   margin-bottom: 1rem;
+  display: flex;
+  position: absolute;
+  margin-right: 65rem;
+
+  margin-top: 15rem;
+  font-size: 2.5rem;
 }
-.header2 {
-  margin-left: 1rem;
-  margin-right: 63rem;
-  margin-top: 1rem;
-}
+
 .shopcarticon {
   width: 60px;
 }

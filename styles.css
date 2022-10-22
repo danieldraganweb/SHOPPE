@@ -67,20 +67,17 @@
   align-items: center;
   margin-top: 3rem;
 }
-
-.btn {
-}
 .button {
   position: absolute;
   width: 18rem;
   background-color: inherit;
   border: 2px solid white;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   border-radius: 0.5rem;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;

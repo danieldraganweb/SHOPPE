@@ -123,16 +123,8 @@
   height: 100%;
   border: 2px solid rgb(239, 233, 233);
   position: absolute;
-  display: flex;
-  flex-direction: column;
-  float: center;
   margin-top: 0rem;
-
   background: url(img/mainimg.jpg);
-  background-size: ;
-  background-position: 0% center;
-  margin-left: 7rem;
-  background-position: center 0%;
   background-repeat: no-repeat;
 }
 .header1 {

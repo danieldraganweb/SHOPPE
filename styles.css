@@ -7,15 +7,16 @@
   justify-content: center;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
+  margin-top: 2rem;
 }
 .logo {
   position: absolute;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva,
     Verdana, sans-serif;
   font-style: normal;
-  font-size: 6rem;
-  margin-top: -5rem;
-  margin-left: 8rem;
+  font-size: 4rem;
+  margin-top: -2.7rem;
+  margin-left: 7rem;
   border: 1px solid white;
 }
 .navbar {
@@ -25,7 +26,7 @@
   justify-content: space-between;
   align-content: flex-start;
   margin-left: 53rem;
-  margin-right: 8rem;
+  margin-right: 8.5rem;
   margin-top: 2rem;
   padding-top: 0px;
   margin-bottom: 1rem;
@@ -64,7 +65,6 @@
   font-size: 1.2rem;
   color: whitesmoke;
   position: absolute;
-
   display: flex;
 }
 .button {
@@ -115,7 +115,7 @@
 }
 
 .header1 {
-  margin-left: 11rem;
+  margin-left: 6.5rem;
   margin-bottom: 1rem;
   display: flex;
   position: inherit;
@@ -128,7 +128,6 @@
   height: 49rem;
   background-repeat: no-repeat;
   background-position: top;
-  margin-left: 6.5rem;
   background-size: contain;
   margin-top: 0rem;
 }
